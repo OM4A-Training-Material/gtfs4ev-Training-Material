@@ -12,7 +12,7 @@ GTFS4EV est un outil open source en Python conçu pour soutenir la planification
 
 ## 🧠 Aperçu du modèle
 
-Le modèle permet de simuler rapidement les opérations de bus et d’explorer des scénarios d’électrification en utilisant les données GTFS comme entrée principale. Il comble l’écart entre les simulateurs détaillés basés sur des agents et les calculateurs simplifiés de premier ordre, en proposant un flux de travail modulaire comprenant le prétraitement des données GTFS, la simulation des opérations de flotte et de recharge, ainsi qu’une analyse a posteriori des impacts de l’électrification (économies de CO₂, réduction de l’exposition à la pollution de l’air, économies de carburant) et l’intégration potentielle de l’énergie photovoltaïque.
+Le modèle permet de simuler rapidement les opérations de bus et d’explorer des scénarios d’électrification en utilisant les données GTFS comme entrée principale. Il comble l’écart entre les simulateurs détaillés basés sur des agents et les calculateurs simplifiés, en proposant un processus de simulation modulaire comprenant le prétraitement des données GTFS, la simulation des opérations de flotte et de recharge, ainsi qu’une analyse a posteriori des impacts de l’électrification (économies de CO₂, réduction de l’exposition à la pollution de l’air, économies de carburant) et l’intégration potentielle de l’énergie photovoltaïque.
 
 Les fonctionnalités principales de GTFS4EV couvrent trois dimensions clés :
 
