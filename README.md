@@ -4,7 +4,7 @@
 
 GTFS4EV is an open-source Python tool designed to support the planning of public bus electrification. By leveraging the standardized General Transit Feed Specification (GTFS), it allows planners and researchers to quickly simulate bus operations and explore electrification scenarios without requiring proprietary or vehicle-level operational data.
 
-- 📖 [**Full Documentation**](https://evpv-simulator.readthedocs.io/en/latest/): Full user guide, API, and methodology
+- 📖 [**Full Documentation**](https://gtfs4ev.github.io/gtfs4ev/): Full user guide, API, and methodology
 - 💻 [**Project GitHub**](https://github.com/gtfs4ev/gtfs4ev): Source code, examples
 - 🐍 Language: Python 3.12
 
